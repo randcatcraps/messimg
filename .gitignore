@@ -1,0 +1,5 @@
+# Blob
+/bundled/
+
+# Python
+**/__pycache__/
